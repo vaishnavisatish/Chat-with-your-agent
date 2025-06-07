@@ -56,5 +56,7 @@ python backend.py
 streamlit run streamlit.py
 ```
 
+A demo is shown below: 
 
+<img width="917" alt="demo " src="https://github.com/user-attachments/assets/852dbbe2-fc33-40d5-ac55-a79fa5dbdd09" />
 
