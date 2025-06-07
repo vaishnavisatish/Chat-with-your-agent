@@ -26,13 +26,7 @@ Built with:
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/vaishnavisatish/Chat-with-your-agent.git
 cd Chat-with-your-agent
 
-
-
-### 2. Create a virtual environment
-conda create -n agent python=3.10
-conda activate agent
 
