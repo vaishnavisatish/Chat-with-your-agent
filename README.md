@@ -27,5 +27,11 @@ Built with:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-agent-chatbot.git
-cd ai-agent-chatbot
+git clone https://github.com/vaishnavisatish/Chat-with-your-agent.git
+cd Chat-with-your-agent
+
+### 2. Create a virtual environment
+```bash
+conda create -n agent python=3.10
+conda activate agent
+
